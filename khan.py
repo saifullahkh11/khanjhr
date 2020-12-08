@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To MR-SH4DOW
+#The Credit For This Code Goes To MR-SK
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -110,7 +110,7 @@ def phone():
 		login()
 	os.system('clear')		
 
-#Dev:MR-SH4DOW-ALONE
+#Dev:MR-SAIFULLAH_KHAN
 ##### LOGO #####
 logo = """
 \033[1;91m▄▄▄▄▄▄▄▄▄  ▄    ▄       ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄        ▄  ▄▄▄▄▄▄▄▄▄▄▄ 
